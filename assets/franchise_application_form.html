@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+       <title>Franchise Application Form</title>
+   </head>
+  <style>
+      body{ margin:0; padding:0; font-family:Arial, Helvetica, sans-serif;  color: #555;font-size:13px;}
+      @page { margin-top: 0px; margin-bottom: 20px; margin-left: 20px; margin-right: 20px;  }
+      *{box-sizing: border-box;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;-o-box-sizing: border-box;-ms-box-sizing: border-box}
+       .clear{ clear:both;}
+      .wrapper{ width:100%; margin:0 auto; background:#fff; padding:15px;}
+      footer { position: relative; bottom: 10px; left: 15px; right: 0px;}
+      
+     #franchise_form td, #franchise_form th {
+      border: 1px solid #ddd;
+      padding: 8px;
+    }
+    
+    #franchise_form th {
+      padding-top: 12px;
+      padding-bottom: 12px;
+      text-align: left;
+    }
+    .application_information_details
+    {
+      background-image: url("{transParentLogo}");
+      background-repeat: no-repeat;
+      background-position: 50% 0;
+      background-size: 30% auto;
+    }
+   </style>
+   <body>
+      <!-- PAGE 1 : Loan Undertaking-->
+      <div class="wrapper" style="padding-left:10px !important;padding-right:10px !important;">
+         <table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-bottom: 5px solid #FFA500;">
+            <tr>
+               <td width="10%"><img src="{logoPath}" width="100%" ></td>
+               <td style="text-align: center;"> <div style="font-size: 24px; font-weight: bold; color: black;">Alternative Medicine Centers</div>  
+                    <div style="font-size:18px; font-weight: bold; color: black;"> AGAGANJ - TIKRI - AYODHYA (U.P.) - 224195</div>
+                    <div style="font-size: 18px;">Phone No - +91 94510 51086</div>
+               </td>
+            </tr>
+         </table>
+         <table cellpadding="0" cellspacing="0" border="0" width="100%" >
+            <tr style="font-size:18px">
+               <td width="50%"> Ref No - {ReferenceNo}</td>
+               <td width="50%" style="text-align: right;"> Date- {GenrateDate}</td>
+            </tr>
+         </table>
+         <table cellpadding="0" cellspacing="0" border="0" width="100%" style="margin:15px">
+         <tr >
+             <td  width="100%" style="text-align:center;"> <div style="font-size:18px; font-weight: bold; color: black;">Franchaise Application</div> </td>
+         </tr>   
+         </table>
+          <table class="application_information_details" cellpadding="0" cellspacing="0" border="0" width="100%" style="border:1px solid #ddd; " id="franchise_form">
+            <tbody>
+               {FranchiseDetails}               
+          </tbody>          
+                                                                      
+        </table>   
+        <table cellpadding="0" cellspacing="0" border="0" width="100%" style="margin-top: 200px;"> 
+         <tr>
+              <td width="100%"> <img src="{signatureImage}" width="100%"  > </td>
+         </tr>
+         
+        </table>
+      </div>
+
+
+   </body>
+</html>

@@ -1,0 +1,22 @@
+[09-Apr-2023 05:53:52 UTC] PHP Parse error:  syntax error, unexpected '=' in /home1/mgmpyk8j/ssgips.in/system/core/CodeIgniter.php on line 370
+[11-Apr-2023 04:55:23 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home1/mgmpyk8j/ssgips.in/index.php on line 59
+[11-Apr-2023 04:55:24 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home1/mgmpyk8j/ssgips.in/index.php on line 59
+[11-Apr-2023 04:55:59 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home1/mgmpyk8j/ssgips.in/index.php on line 59
+[11-Apr-2023 04:57:16 UTC] PHP Parse error:  syntax error, unexpected '$view_folder' (T_VARIABLE) in /home1/mgmpyk8j/ssgips.in/index.php on line 147
+[11-Apr-2023 04:57:41 UTC] PHP Parse error:  syntax error, unexpected '$view_folder' (T_VARIABLE) in /home1/mgmpyk8j/ssgips.in/index.php on line 147
+[11-Apr-2023 04:57:42 UTC] PHP Parse error:  syntax error, unexpected '$view_folder' (T_VARIABLE) in /home1/mgmpyk8j/ssgips.in/index.php on line 147
+[11-Apr-2023 04:58:10 UTC] PHP Parse error:  syntax error, unexpected '$view_folder' (T_VARIABLE) in /home1/mgmpyk8j/ssgips.in/index.php on line 147
+[11-Apr-2023 04:59:00 UTC] PHP Parse error:  syntax error, unexpected '$view_folder' (T_VARIABLE) in /home1/mgmpyk8j/ssgips.in/index.php on line 147
+[11-Apr-2023 04:59:01 UTC] PHP Parse error:  syntax error, unexpected '$view_folder' (T_VARIABLE) in /home1/mgmpyk8j/ssgips.in/index.php on line 147
+[11-Apr-2023 05:01:14 UTC] PHP Parse error:  syntax error, unexpected '$view_folder' (T_VARIABLE) in /home1/mgmpyk8j/ssgips.in/index.php on line 147
+[11-Apr-2023 05:02:06 UTC] PHP Parse error:  syntax error, unexpected '$view_folder' (T_VARIABLE) in /home1/mgmpyk8j/ssgips.in/index.php on line 147
+[11-Apr-2023 05:02:06 UTC] PHP Parse error:  syntax error, unexpected '$view_folder' (T_VARIABLE) in /home1/mgmpyk8j/ssgips.in/index.php on line 147
+[11-Apr-2023 05:02:57 UTC] PHP Parse error:  syntax error, unexpected '$view_folder' (T_VARIABLE) in /home1/mgmpyk8j/ssgips.in/index.php on line 148
+[11-Apr-2023 05:02:58 UTC] PHP Parse error:  syntax error, unexpected '$view_folder' (T_VARIABLE) in /home1/mgmpyk8j/ssgips.in/index.php on line 148
+[11-Apr-2023 05:02:59 UTC] PHP Parse error:  syntax error, unexpected '$view_folder' (T_VARIABLE) in /home1/mgmpyk8j/ssgips.in/index.php on line 148
+[11-Apr-2023 05:03:00 UTC] PHP Parse error:  syntax error, unexpected '$view_folder' (T_VARIABLE) in /home1/mgmpyk8j/ssgips.in/index.php on line 148
+[11-Apr-2023 05:03:01 UTC] PHP Parse error:  syntax error, unexpected '$view_folder' (T_VARIABLE) in /home1/mgmpyk8j/ssgips.in/index.php on line 148
+[11-Apr-2023 05:03:40 UTC] PHP Parse error:  syntax error, unexpected '$view_folder' (T_VARIABLE) in /home1/mgmpyk8j/ssgips.in/index.php on line 148
+[11-Apr-2023 05:05:49 UTC] PHP Parse error:  syntax error, unexpected '$view_folder' (T_VARIABLE) in /home1/mgmpyk8j/ssgips.in/index.php on line 148
+[11-Apr-2023 05:07:58 UTC] PHP Parse error:  syntax error, unexpected '$view_folder' (T_VARIABLE) in /home1/mgmpyk8j/ssgips.in/index.php on line 148
+[11-Apr-2023 05:10:08 UTC] PHP Parse error:  syntax error, unexpected '$view_folder' (T_VARIABLE) in /home1/mgmpyk8j/ssgips.in/index.php on line 148

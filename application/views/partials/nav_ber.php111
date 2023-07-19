@@ -1,0 +1,100 @@
+ <section>
+     <nav class="navbar navbar-expand-lg navbar-light">
+         <div class="container-fluid">
+             <a class="navbar-brand logo" href=""><img src="<?php echo base_url() . 'uploads/logo/' . $this->general_settings->logo ?>" alt=""></a>
+
+             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                 <span class="navbar-toggler-icon"></span>
+             </button>
+             <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                 <ul class="navbar-nav ml-auto">
+                     <li class="nav-item active">
+                         <a class="nav-link" href="<?php echo lang_base_url() ?>"><?php echo trans('home'); ?> <span class="sr-only">(current)</span></a>
+                     </li>
+                     <li class="nav-item dropdown">
+                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Institute</a>
+                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                             
+                             <li>
+                                 <a class="dropdown-item" href="">About us</a>
+                                 <a class="dropdown-item" href="">Director / Principal's Message</a>
+                                 <a class="dropdown-item" href="">President's Message</a>
+                                 <a class="dropdown-item" href="">Vice Principal's Message</a>
+                                 <a class="dropdown-item" href="">Governing Body</a>
+                                 <a class="dropdown-item" href="">Recoginition &amp; Accreditation</a>
+                             </li>
+                            
+                         </ul>
+                     </li>
+                     <li class="nav-item dropdown">
+                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Facilities</a>
+                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                             
+                             <li>
+                                 <a class="dropdown-item" href="">Infrastructure</a>
+                                 <a class="dropdown-item" href="">Research, Training &amp; Laboratory</a>
+                                 <a class="dropdown-item" href="">Library</a>
+                                 <a class="dropdown-item" href="">Lecture Rooms &amp; Seminar Hall</a>
+                                 <a class="dropdown-item" href="">Hostel Facility</a>
+                                 <a class="dropdown-item" href="">Security &amp; Protection </a>
+                             </li>
+                            
+                         </ul>
+                     </li>
+                      <li class="nav-item dropdown">
+                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Courses</a>
+                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                             
+                             <li>
+                                 <a class="dropdown-item" href="">Course Curriculum</a>
+                                 <a class="dropdown-item" href="">BSc Courses</a>
+                                 <a class="dropdown-item" href="">MSc Courses</a>
+                                 <a class="dropdown-item" href="">BCA - Bachelor of Computer Applications</a>
+                                 <a class="dropdown-item" href="">BBA - Bachelor of Business Administration</a>
+                                 <a class="dropdown-item" href="">Research / Phd</a>
+                             </li>
+                            
+                         </ul>
+                     </li>
+                      <li class="nav-item">
+                         <a class="nav-link" href="">Admission</a>
+                     </li>
+                      <li class="nav-item dropdown">
+                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Faculty</a>
+                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                             
+                             <li>
+                                 <a class="dropdown-item" href="">Director</a>
+                                 <a class="dropdown-item" href="">Faculty Members</a>
+                                 <a class="dropdown-item" href="">Other Staffs</a>
+                             </li>
+                            
+                         </ul>
+                     </li>
+                      <li class="nav-item dropdown">
+                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Students</a>
+                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                             
+                             <li>
+                                 <a class="dropdown-item" href="">Events / Photo Gallery</a>
+                                 <a class="dropdown-item" href="">Student Projects</a>
+                                 <a class="dropdown-item" href="">Student Performance</a>
+                                 <a class="dropdown-item" href="">Social life of Students</a>
+                                 <a class="dropdown-item" href="">Students Mentor</a>
+                                 <a class="dropdown-item" href="">Alumni Association</a>
+                             </li>
+                            
+                         </ul>
+                     </li>
+                      <li class="nav-item">
+                         <a class="nav-link" href="">Job Placement</a>
+                     </li>                      
+
+                     <li class="nav-item">
+                         <a class="nav-link" href="<?php echo lang_base_url() . 'contact-us' ?>"> <?php echo trans('contact_us') ?></a>
+                     </li>
+                 </ul>
+             </div>
+         </div>
+     </nav>
+ </section>

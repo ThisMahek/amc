@@ -1,0 +1,13 @@
+@media (max-width:1199px) {
+	.insertimg
+	{
+		width: 100% !important;
+	}
+}
+@media (max-width:480px)
+{
+.mblog h4
+{
+	width: 100% !important;
+}
+}
